@@ -4,6 +4,7 @@
 * Java
 * Python
 * Groovy
+* Scala
 * JavaScript
 * C#
 * HTML
@@ -45,6 +46,7 @@
 ### FRAMEWORK
 * Spring
 * Spring Boot
+* Apache Spark
 
 ### ETC
 * ClickUp
