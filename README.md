@@ -1,11 +1,13 @@
-## 배지 태그로 꾸며 '줘'
+## 응 안 꾸며~
 
 ### LANGUAGE
-* C#
 * Java
-* JavaScript
 * Python
 * Groovy
+* JavaScript
+* C#
+* HTML
+* CSS
 
 ### DB(DW etc)
 * ORACLE
@@ -38,7 +40,7 @@
 * Metabase (BI)
 
 ### VCS
-* git
+* Git
 
 ### FRAMEWORK
 * Spring
@@ -47,6 +49,8 @@
 ### ETC
 * ClickUp
 * Confluence
+* Notion
+* Slack
 
 <!--
 **geundu/geundu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
