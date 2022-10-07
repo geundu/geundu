@@ -13,7 +13,7 @@
 * PostgreSQL
 * influxdb
 * Redis
-* AWS Redshift
+* AWS Redshift (+ S3)
 * GCP BigQuery
 
 ### TOOL (IDE, ETL etc)
@@ -28,13 +28,14 @@
 * GitHub
 * Apache NiFi
 * Apache Kafka
-* Apache KafkaStreams
-* Grafana
-* Metabase
 * Zeppelin
 * S3 Browser
 * P3X Redis UI
 * MobaXterm
+
+### VISUALIZATION TOOL
+* Grafana (Monitoring)
+* Metabase (BI)
 
 ### VCS
 * git
