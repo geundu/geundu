@@ -14,7 +14,7 @@
 * ORACLE
 * MySQL
 * PostgreSQL
-* influxdb
+* InfluxDB
 * Redis
 * AWS Redshift (+ S3)
 * GCP BigQuery
@@ -37,8 +37,8 @@
 * MobaXterm
 
 ### VISUALIZATION TOOL
-* Grafana (Monitoring)
-* Metabase (BI)
+* Grafana
+* Metabase
 
 ### VCS
 * Git
