@@ -1,4 +1,4 @@
-## 응 안 꾸며~
+## 헉
 
 ### LANGUAGE
 * Java
@@ -10,7 +10,7 @@
 * HTML
 * CSS
 
-### DB(DW etc)
+### DB (DW etc)
 * ORACLE
 * MySQL
 * PostgreSQL
